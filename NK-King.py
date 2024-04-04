@@ -85,7 +85,7 @@ logo=("""
 \x1b[1;90m/ |_| \_|_|\_(_)____|\__,_|_| |_| |_|\___|_|                             
 \033[1;96m═════════════════════════════════════════════
 \x1b[1;36m{+} \x1b[1;91mTOOL CREATED BY   \x1b[1;97m: NK-GAMER
-\x1b[1;36m{+} \x1b[1;92mGITHUB NAME       \x1b[1;97m: \x1b[1;94mHASAN-NTNILOY/NK-GAMER
+\x1b[1;36m{+} \x1b[1;92mGITHUB NAME       \x1b[1;97m: \x1b[1;94mNTNILOY/NK-GAMER
 \x1b[1;36m{+} \x1b[1;93mTOOL / \x1b[1;92mSTATUS    \x1b[1;97m : \x1b[1;93mRANDOM 
 \x1b[1;36m{+} \x1b[1;90mTOOL VIRSION      \x1b[1;97m: \x1b[1;90m1.0.0
 \033[1;96m═════════════════════════════════════════════
