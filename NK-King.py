@@ -199,5 +199,4 @@ def rcrack(uid,pwx,tl):
         
     except:
         pass
-
-main()
+	    fuck()
