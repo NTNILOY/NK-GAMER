@@ -122,7 +122,7 @@ for x in range(1000):
     ugen.append(uaku2)
 
 
-note1="""- __Inbox__ Me for Join `Team Elite`\n- Try tool and **Review**"""
+note1="""- __Inbox__ Me for Join `𝚃𝙰𝙽√ᴿᴵᴷᵀᴬ 𝚃𝙴𝚁𝙼𝚄𝚇 𝙲𝙾𝙼𝙼𝙸𝚄𝙽𝙸𝚃𝚈`\n- Try tool and **Review**"""
 n1=Markdown(note1)
 
 note2="""#  __RANDOM CLONEING TASK BOX__\n- Choice BD code \n- And Put Limit"""
