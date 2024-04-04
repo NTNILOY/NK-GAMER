@@ -81,7 +81,7 @@ number=int("+8801994778106")
 devoloper_info={
     "Developer" :  'NK GAMER',
     "Number" :  number,
-    "Status" :  '24-ONLINE',
+    "Status" :  '24-OFFLINE💀',
     "GitHub Url":  'https://github.com/NTNILOY/NK-GAMER',
     "Facebook" :  'https://www.facebook.com/profile.php?id=100069938063027',
     }
