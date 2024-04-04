@@ -55,7 +55,7 @@ def login(uid):
     global oks,loop
     Session=requests.session()
     try:
-        sys.stdout.write(f"\r \x1b[38;5;196m[\033[38;5;46mUNLACKY\x1b[1;97m-\033[38;5;46mHACKER\x1b[38;5;196m] \033[38;5;46m[{loop}-{len(oks)}]")
+        sys.stdout.write(f"\r \x1b[38;5;196m[\033[38;5;46mNK\x1b[1;97m-\033[38;5;46mGAMER\x1b[38;5;196m] \033[38;5;46m[{loop}-{len(oks)}]")
         sys.stdout.flush()
         for pw in ["123456","1234567","12345678","123456789","123123"]:
             headers = {
