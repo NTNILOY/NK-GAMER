@@ -33,8 +33,8 @@ for tg in range(5000):
 	f=random.randrange(3000,6000)
 	g=random.randrange(20,100)
 	h='Mobile Safari/537.36'
-	NK-GAMER=(f"{a} {b}; {c}{d}.{e}.{f}.{g} {h}")
-	ugen.append(NK-GAMER)
+	NK=(f"{a} {b}; {c}{d}.{e}.{f}.{g} {h}")
+	ugen.append(NK)
 for ua in range(5000):
       a='Mozilla/5.0 (Linux; Android'
       b=random.choice(['5.1.1' , '6.0.1' , '7.1.1' , '12' , '13' , '14' , '15'])
