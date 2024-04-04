@@ -1,6 +1,5 @@
 #python2
-#from urllib.request import Request,urlopen
-import urllib2,cookielib
+#from urllib.request import Request,urloped
 #from urllib.parse import urlencode
 import platform
 import os
