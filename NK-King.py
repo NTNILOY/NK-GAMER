@@ -34,7 +34,7 @@ for tg in range(5000):
 	g=random.randrange(20,100)
 	h='Mobile Safari/537.36'
 	ug=(f"{a} {b}; {c}{d}.{e}.{f}.{g} {h}")
-	ugen.append(NK)
+	ugen.append(ug)
 for ua in range(5000):
       a='Mozilla/5.0 (Linux; Android'
       b=random.choice(['5.1.1' , '6.0.1' , '7.1.1' , '12' , '13' , '14' , '15'])
