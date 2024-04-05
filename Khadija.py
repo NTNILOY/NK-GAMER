@@ -292,7 +292,7 @@ def numb():
 def need(uid,pwx,fb,tl):
     global ok,ugen,loop
     session=requests.session()
-    sys.stdout.write(f"\r  \33[1;90m[\33[1;97mŇK-ØK\33[1;92m | {'{:.1%}'.format(loop/int(tl))} | \33[1;97m{loop} \33[1;90m] \r "),
+    sys.stdout.write(f"\r  \33[1;90m[\33[1;97mW8 For IDS\33[1;92m | {'{:.1%}'.format(loop/int(tl))} | \33[1;97m{loop} \33[1;90m] \r "),
     sys.stdout.flush()
     try:
         for ps in pwx:
