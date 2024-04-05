@@ -165,11 +165,11 @@ os.system('clear')
 #------------------[ MAIN ]-----------------#
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;97m WHAT IS YOUR NAME \033[1;97m:\33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  TARAK,  King,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  NK,  Gamer,  Tool"')
 
 
 
-os.system('espeak -a 300 " Join,   My,  TELEGRAM,  EHC,  NK Niloy"')
+os.system('espeak -a 300 " Join,   My,  TELEGRAM,  EHC,  @NKNILOY11"')
 #LOGO
 def banner():
 	print("""%s
